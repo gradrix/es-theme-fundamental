@@ -22,7 +22,7 @@ author:			Grila
 		<helpsystem name="help">
 			<textColor>${metaTextColor}</textColor>
 			<iconColor>${metaTextColor}</iconColor>
-			<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+			<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 			<fontSize>0.0333333333333333</fontSize>
 		</helpsystem>
 	</view>
@@ -67,7 +67,7 @@ author:			Grila
 
 			<text name="console_name" extra="true">
 				<text>${system.fullName}</text>
-				<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+				<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 				<fontSize>0.0740740740740741</fontSize>
 				<pos>0.265625 0.0277777777777778</pos>
 				<size>0.71875 0.0648148148148148</size>
@@ -76,7 +76,7 @@ author:			Grila
 			</text>
 
 			<text name="systemInfo">
-				<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+				<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 				<fontSize>0.0333333333333333</fontSize>
 				<pos>0.265625 0.0925925925925926</pos>
 				<size>0.71875 0.0277777777777778</size>
@@ -102,7 +102,7 @@ author:			Grila
 			</text>
 
 			<text name="release_date" extra="true">
-				<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+				<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 				<fontSize>0.0333333333333333</fontSize>
 				<pos>0.265625 0.2037037037037037</pos>
 				<size>0.3489583333333333 0.037037037037037</size>
@@ -112,7 +112,7 @@ author:			Grila
 			</text>
 
 			<text name="developer" extra="true">
-				<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+				<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 				<fontSize>0.0333333333333333</fontSize>
 				<pos>0.265625 0.2592592592592593</pos>
 				<size>0.3489583333333333 0.037037037037037</size>
@@ -122,7 +122,7 @@ author:			Grila
 			</text>
 
 			<text name="cpu" extra="true">
-				<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+				<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 				<fontSize>0.0333333333333333</fontSize>
 				<pos>0.265625 0.3148148148148148</pos>
 				<size>0.3489583333333333 0.037037037037037</size>
@@ -132,7 +132,7 @@ author:			Grila
 			</text>
 
 			<text name="memory" extra="true">
-				<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+				<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 				<fontSize>0.0333333333333333</fontSize>
 				<pos>0.265625 0.3703703703703704</pos>
 				<size>0.3489583333333333 0.037037037037037</size>
@@ -142,7 +142,7 @@ author:			Grila
 			</text>
 
 			<text name="graphics" extra="true">
-				<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+				<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 				<fontSize>0.0333333333333333</fontSize>
 				<pos>0.265625 0.4259259259259259</pos>
 				<size>0.3489583333333333 0.037037037037037</size>
@@ -152,7 +152,7 @@ author:			Grila
 			</text>
 
 			<text name="sound" extra="true">
-				<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+				<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 				<fontSize>0.0333333333333333</fontSize>
 				<pos>0.265625 0.4814814814814815</pos>
 				<size>0.3489583333333333 0.037037037037037</size>
@@ -162,7 +162,7 @@ author:			Grila
 			</text>
 
 			<text name="media" extra="true">
-				<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+				<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 				<fontSize>0.0333333333333333</fontSize>
 				<pos>0.265625 0.537037037037037</pos>
 				<size>0.3489583333333333 0.037037037037037</size>
@@ -197,7 +197,7 @@ author:			Grila
 			<selectedColor>${metaTextColor}</selectedColor>
 			<primaryColor>${metaTextColor}</primaryColor>
 			<secondaryColor>${metaTextColor}</secondaryColor>
-			<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+			<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 			<pos>0.25 0.212962962962963</pos>
 			<size>0.5 0.7222222222222222</size>
 			<fontSize>0.0333333333333333</fontSize>
@@ -221,7 +221,7 @@ author:			Grila
 
 		<text name="console_name" extra="true">
 			<text>${system.fullName}</text>
-			<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+			<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 			<fontSize>0.0740740740740741</fontSize>
 			<pos>0.265625 0.0277777777777778</pos>
 			<size>0.71875 0.0648148148148148</size>
@@ -234,7 +234,7 @@ author:			Grila
 			<selectedColor>${metaTextColor}</selectedColor>
 			<primaryColor>${metaTextColor}</primaryColor>
 			<secondaryColor>${metaTextColor}</secondaryColor>
-			<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+			<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 			<pos>0 0.0277777777777778</pos>
 			<size>0.25 0.9444444444444444</size>
 			<fontSize>0.0333333333333333</fontSize>
@@ -253,21 +253,21 @@ author:			Grila
 		</text>
 
 		<text name="md_lbl_lastplayed, md_lbl_genre, md_lbl_players, md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_playcount">
-			<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+			<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 			<fontSize>0.0333333333333333</fontSize>
 			<alignment>left</alignment>
 			<color>${metaTextColor}</color>
 		</text>
 
 		<text name="md_genre, md_players, md_developer, md_publisher, md_playcount">
-			<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+			<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 			<fontSize>0.0333333333333333</fontSize>
 			<alignment>left</alignment>
 			<color>${metaTextColor}</color>
 		</text>
 
 		<datetime name="md_lastplayed, md_releasedate">
-			<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+			<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 			<fontSize>0.0333333333333333</fontSize>
 			<color>${metaTextColor}</color>
 		</datetime>
@@ -416,7 +416,7 @@ author:			Grila
 		</gridtile>
 
 		<text name="md_name">
-			<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+			<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 			<fontSize>0.05</fontSize>
 			<pos>0.265625 0.02</pos>
 			<size>0.71875 0.0648148148148148</size>
@@ -425,21 +425,21 @@ author:			Grila
 		</text>
 
 		<text name="md_lbl_lastplayed, md_lbl_genre, md_lbl_players, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_playcount">
-			<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+			<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 			<fontSize>0.0333333333333333</fontSize>
 			<alignment>left</alignment>
 			<color>${metaTextColor}</color>
 		</text>
 
 		<text name="md_genre, md_players, md_developer, md_publisher, md_playcount">
-			<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+			<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 			<fontSize>0.0333333333333333</fontSize>
 			<alignment>left</alignment>
 			<color>${metaTextColor}</color>
 		</text>
 
 		<datetime name="md_lastplayed, md_releasedate">
-			<fontPath>./core/fonts/BebasKai-Regular.otf</fontPath>
+			<fontPath>./core/fonts/RobotoCondensed-Regular.ttf</fontPath>
 			<fontSize>0.0333333333333333</fontSize>
 			<color>${metaTextColor}</color>
 		</datetime>
